@@ -1,0 +1,49 @@
+/*
+* Harper Dell'Orefice
+* Due Date
+* My Favorite Things Images
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+
+}
+
+p {
+    font-size: 20px
+}
+
+#pumpkin {
+    width: 200px; height: 350px;
+}
+
+#stars1 {
+    width: 200px; height: 350px;
+}
+
+#stars2 {
+    width: 200px; height: 350px;
+}
+
+#copper {
+    width: 255px; height: 335px;
+}
+
+#cinder {
+    width: 255px; height: 335px;
+}
+
+#boop1 {
+    width: 240px; height: 320px;
+}
+
+#boop2 {
+    width: 240px; height: 320px;
+}
